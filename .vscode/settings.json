@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "itextpdf-5.5.13.jar",
+        "mysql-connector-j-9.5.0.jar"
+    ]
+}
